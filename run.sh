@@ -1,0 +1,1 @@
+pytest -v -s /home/aryan/Documents/btes/Test_executables
